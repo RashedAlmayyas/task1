@@ -1,0 +1,28 @@
+
+  input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #035d5c;
+    background-color: #111; 
+    right: 100%;
+  }
+  
+table {
+  border :1;
+    width: 60%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #035d5c;
+    color: white;
+  }
+  th{
+    background-color: #035d5c;
+  }
+  
+  tr:hover {background-color: #035d5c;}
